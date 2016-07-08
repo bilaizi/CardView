@@ -8,8 +8,8 @@ Android L preview.
 Pre-requisites
 --------------
 
-- Android SDK v21
-- Android Build Tools v22.0.1
+- Android SDK v24
+- Android Build Tools v24.0.0
 - Android Support Repository
 
 Getting Started
